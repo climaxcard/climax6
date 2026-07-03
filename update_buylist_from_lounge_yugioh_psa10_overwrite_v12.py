@@ -2,7 +2,8 @@
 """
 トレカラウンジ 遊戯王 PSA10 買取表を取得して、既存 buylist.xlsm のO列だけを直接上書きする。
 
-v12: C列の括弧内（ホログラフィック/レリーフ/ステンレス等）を判定に使い、Excel側・ラウンジ側の型番が空白でも名前一致でマッチする。
+v13: (25th/片手剣) / (25th/双剣) などの絵柄差分タグをレアリティ扱いで消さず、別商品として照合する。
+     C列の括弧内（ホログラフィック/レリーフ/ステンレス等）を判定に使い、Excel側・ラウンジ側の型番が空白でも名前一致でマッチする。
 
 対象Excel（デフォルト）:
   C列 = 商品名
@@ -157,6 +158,12 @@ def strip_rarity_from_name(s):
 
     def repl(m):
         inner = m.group(1).strip()
+
+        # 片手剣/双剣などの絵柄差分を含む括弧は、
+        # 25th/QCSE が含まれていても名前照合から消さない。
+        if is_art_variant_tag(inner):
+            return m.group(0)
+
         r = norm_rarity(inner)
         if r in {"HOLOGRAPHIC", "ULTIMATE", "QCSE", "PSE", "20TH", "SECRET", "ULTRA", "SUPER"}:
             return ""
@@ -202,8 +209,46 @@ def norm_name_base_for_tag_match(s):
     return norm_name(text)
 
 
+def is_art_variant_tag(s):
+    """片手剣/双剣など、同名・同レアリティでも価格が分かれる絵柄差分タグを判定する。"""
+    t = unicodedata.normalize("NFKC", str(s or "")).upper()
+    # 区切りや括弧の種類に左右されないように最低限だけ潰す
+    for ch in [" ", "　", "・", "･", "-", "－", "‐", "‑", "–", "—", "―", "ー", "ｰ", "/", "／"]:
+        t = t.replace(ch, "")
+    return any(x in t for x in [
+        "片手剣",
+        "双剣",
+        "イラスト違い",
+        "イラスト違",
+        "絵違い",
+        "絵柄違い",
+        "絵柄違",
+        "別イラスト",
+    ])
+
+
+def normalize_art_variant_tag(s):
+    """絵柄差分タグを照合用キーに正規化する。"""
+    t = unicodedata.normalize("NFKC", str(s or "")).upper()
+    for ch in [" ", "　", "・", "･", "-", "－", "‐", "‑", "–", "—", "―", "ー", "ｰ", "/", "／", "(", ")", "（", "）", "[", "]", "［", "］", "【", "】"]:
+        t = t.replace(ch, "")
+    if "片手剣" in t:
+        return "ART_KATATEKEN"
+    if "双剣" in t:
+        return "ART_SOUKEN"
+    if any(x in t for x in ["イラスト違い", "イラスト違", "絵違い", "絵柄違い", "絵柄違", "別イラスト"]):
+        return "ART_VARIANT"
+    return ""
+
+
 def norm_tag(s):
-    """括弧内タグ照合用。ステンレス/レリーフ/ホログラフィック等を揃える。"""
+    """括弧内タグ照合用。ステンレス/レリーフ/ホログラフィック/絵柄差分等を揃える。"""
+    # (25th/片手剣) / (25th/双剣) は、25thをQCSE判定しつつも、
+    # タグ照合では絵柄差分として分ける。
+    art_tag = normalize_art_variant_tag(s)
+    if art_tag:
+        return art_tag
+
     r = norm_rarity(s)
     if r in {"HOLOGRAPHIC", "ULTIMATE", "QCSE", "PSE", "20TH", "SECRET", "ULTRA", "SUPER"}:
         return r
