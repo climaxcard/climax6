@@ -1,0 +1,133 @@
+[1/4] „É©„Ç¶„É≥„Ç∏ÈÅäÊàØÁéãPSA10‰æ°Ê†º„Çíbuylist.xlsm„Å∏ÂèçÊò†... 
+[INFO] ÉâÉEÉìÉWéÊìæ page=1: https://kaitori.toreca-lounge.com/products/yugioh/single?grade=PSA10
+[INFO] page=1 êVãKéÊìæåèêî: 100
+[INFO] ÉâÉEÉìÉWéÊìæ page=2: https://kaitori.toreca-lounge.com/products/yugioh/single?grade=PSA10&page=2
+[INFO] page=2 êVãKéÊìæåèêî: 100
+[INFO] ÉâÉEÉìÉWéÊìæ page=3: https://kaitori.toreca-lounge.com/products/yugioh/single?grade=PSA10&page=3
+[INFO] page=3 êVãKéÊìæåèêî: 99
+[INFO] ÉâÉEÉìÉWéÊìæ page=4: https://kaitori.toreca-lounge.com/products/yugioh/single?grade=PSA10&page=4
+[INFO] page=4 êVãKéÊìæåèêî: 0
+[INFO] ÉâÉEÉìÉWéÊìæçáåv: 299åè
+[INFO] å^î‘àÍívÉLÅ[: 222åè / å^î‘+ÉåÉAÉäÉeÉBÉLÅ[: 232åè / íZå^î‘ÉLÅ[: 31åè / ñºëO+å^î‘ÉLÅ[: 305åè / å^î‘Ç»ÇµñºëOÉLÅ[: 210åè
+[INFO] v12: Excelë§/ÉâÉEÉìÉWë§Ç∆Ç‡å^î‘ãÛîíÇÃè§ïiÇÅACóÒÇÃè§ïiñºÅEäáå É^ÉOÇ≈Ç‡è∆çáÇµÇ‹Ç∑ÅBâøäiÇÕ5%ÉJÉbÉgå„Ç…êÿÇËéÃÇƒÇ‹Ç∑ÅB
+[INFO] ëŒè€ÉVÅ[Ég: Sheet1
+[INFO] ExcelêÊì™ÉTÉìÉvÉã:
+  row=6 C=ÅyPSA10ÅzÉJÉIÉXÅEÉ\ÉãÉWÉÉÅ[ Å|äJËìÇÃégé“Å| / F=25DS-JP002 / G=ÉNÉHÅ[É^Å[ÉZÉìÉ`ÉÖÉäÅ[ÉVÅ[ÉNÉåÉbÉg / name_norm=ÉJÉIÉXÉ\ÉãÉWÉÉäJËìÇÃégé“ / rarity_norm=ÉNÉH-É^-ÉZÉìÉ`ÉÖÉä-ÉV-ÉNÉåÉbÉg / codeåÛï‚=25DS-JP002
+  row=7 C=ÅyPSA10ÅzãÜã…äÆëSë‘ÅEÉOÉåÅ[ÉgÅEÉÇÉX / F=EDC1-JP001 / G=ÉNÉHÅ[É^Å[ÉZÉìÉ`ÉÖÉäÅ[ÉVÅ[ÉNÉåÉbÉg / name_norm=ãÜã…äÆëSë‘ÉOÉåÉgÉÇÉX / rarity_norm=ÉNÉH-É^-ÉZÉìÉ`ÉÖÉä-ÉV-ÉNÉåÉbÉg / codeåÛï‚=EDC1-JP001
+  row=8 C=ÅyPSA10Åzí¥ñÇì±ó≥ãRémÅ|ÉhÉâÉOÅ[ÉìÅEÉIÉuÅEÉåÉbÉhÉAÉCÉY / F=QCAC-JP084 / G=ÉNÉHÅ[É^Å[ÉZÉìÉ`ÉÖÉäÅ[ÉVÅ[ÉNÉåÉbÉg / name_norm=í¥ñÇì±ó≥ãRémÉhÉâÉOÉìÉIÉuÉåÉbÉhÉAÉCÉY / rarity_norm=ÉNÉH-É^-ÉZÉìÉ`ÉÖÉä-ÉV-ÉNÉåÉbÉg / codeåÛï‚=QCAC-JP084
+  row=9 C=ÅyPSA10ÅzIPÉ}ÉXÉJÉåÅ[Éi(25th/ÉoÉCÉN) / F=QCAC-JP069 / G=ÉNÉHÅ[É^Å[ÉZÉìÉ`ÉÖÉäÅ[ÉVÅ[ÉNÉåÉbÉg / name_norm=IPÉ}ÉXÉJÉåÉi / rarity_norm=QCSE / codeåÛï‚=QCAC-JP069
+  row=10 C=ÅyPSA10ÅzëMìÅãNìÆÅ|ÉGÉìÉQÅ[ÉWÅiÉCÉâÉXÉgà·Ç¢Åj / F=QCAC-JP061 / G=ÉNÉHÅ[É^Å[ÉZÉìÉ`ÉÖÉäÅ[ÉVÅ[ÉNÉåÉbÉg / name_norm=ëMìÅãNìÆÉGÉìÉQÉW(ÉCÉâÉXÉgà·Ç¢) / rarity_norm=ÉNÉH-É^-ÉZÉìÉ`ÉÖÉä-ÉV-ÉNÉåÉbÉg / codeåÛï‚=QCAC-JP061
+[INFO] É`ÉFÉbÉNçsêî: 251
+[OK] çXêVåèêî: 238
+[INFO] ñ¢àÍívåèêî: 13
+[INFO] çXêVÉçÉO: C:\Users\user\ClimaxGit\climax6\logs\lounge_yugioh_psa10_updated_20260706_112608.csv
+[INFO] ñ¢àÍívÉçÉO: C:\Users\user\ClimaxGit\climax6\logs\lounge_yugioh_psa10_no_match_20260706_112608.csv
+[INFO] ÉoÉbÉNÉAÉbÉvçÏê¨: C:\Users\user\ClimaxGit\climax6\buylist_backup_before_lounge_20260706_112608.xlsm
+[OK] ä˘ë∂ExcelÇÃOóÒÇíºê⁄è„èëÇ´ï€ë∂ÇµÇ‹ÇµÇΩ: C:\Users\user\ClimaxGit\climax6\buylist.xlsm
+[2/4] HTMLË≤∑ÂèñË°®„ÇíÁîüÊàê... 
+[DBG] BUILD_THUMBS env raw='0' -> BUILD_THUMBS=False
+[DBG] df_raw shape: (251, 22)
+[DBG] RóÒ/S_HIDE sample: [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
+[DBG] RóÒ/S_HIDE value_counts: {'nan': 251}
+[INFO] CóÒä€äáå Çï\é¶ñºÇ©ÇÁèúäOÅiÉzÉçÉOÉâÉtÉBÉbÉN/ÉåÉäÅ[ÉtÇÕécÇ∑Åj: 94åè
+[*] Excel/CSV: 'C:\\Users\\user\\ClimaxGit\\climax6\\buylist.xlsm'
+[*] PER_PAGE=80  BUILD_THUMBS=0
+[LOGO]  embedded from C:\Users\user\ClimaxGit\climax6\assets\logo.png
+[X]     embedded from C:\Users\user\ClimaxGit\climax6\assets\X.png
+[LINE]  embedded from C:\Users\user\ClimaxGit\climax6\assets\LINE.png
+[IG]    embedded from C:\Users\user\ClimaxGit\climax6\assets\instagram.png
+[TT]    embedded from C:\Users\user\ClimaxGit\climax6\assets\tiktok.png
+[OK] ê∂ê¨äÆóπ Å® C:\Users\user\ClimaxGit\climax6\docs / ëçåèêî251
+[3/4] Myca„Ç¢„ÉÉ„Éó„É≠„Éº„ÉâÁî®CSV„ÇíÂá∫Âäõ... 
+==================================================
+óVãYâ§PSA10 Myca CSV èoóÕäJén
+ì¸óÕ: C:\Users\user\ClimaxGit\climax6\buylist.xlsm
+èoóÕ: C:\Users\user\ClimaxGit\climax6\yugioh_psa10_myca_upload.csv
+==================================================
+[INFO] ÉVÅ[ÉgämîFíÜ: Sheet1
+==================================================
+[OK] MycaÉAÉbÉvÉçÅ[ÉhópCSVÇèoóÕÇµÇ‹ÇµÇΩ
+åèêî: 592
+CSV: C:\Users\user\ClimaxGit\climax6\yugioh_psa10_myca_upload.csv
+==================================================
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   buylist.xlsm
+	deleted:    buylist_backup_before_lounge_20260630_161556.xlsm
+	modified:   docs/default/index.html
+	modified:   docs/price_asc/index.html
+	modified:   docs/price_desc/index.html
+	modified:   export_yugioh_psa10_myca_csv.py
+	deleted:    logs/lounge_yugioh_missing_from_excel_20260630_140933.csv
+	deleted:    logs/lounge_yugioh_psa10_no_match_20260630_160403.csv
+	deleted:    logs/lounge_yugioh_psa10_no_match_20260630_160622.csv
+	deleted:    logs/lounge_yugioh_psa10_no_match_20260630_161229.csv
+	deleted:    logs/lounge_yugioh_psa10_no_match_20260630_161258.csv
+	deleted:    logs/lounge_yugioh_psa10_no_match_20260630_161556.csv
+	deleted:    logs/lounge_yugioh_psa10_updated_20260630_160403.csv
+	deleted:    logs/lounge_yugioh_psa10_updated_20260630_160622.csv
+	deleted:    logs/lounge_yugioh_psa10_updated_20260630_161229.csv
+	deleted:    logs/lounge_yugioh_psa10_updated_20260630_161258.csv
+	deleted:    logs/lounge_yugioh_psa10_updated_20260630_161556.csv
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	buylist_backup_before_lounge_20260706_112608.xlsm
+	logs/lounge_yugioh_psa10_no_match_20260706_112608.csv
+	logs/lounge_yugioh_psa10_updated_20260706_112608.csv
+	logs/run_yugioh_20260706_112605.log
+	rub_buy_update_all.bat
+	yugioh_psa10_myca_upload.csv
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[main e0ea257] Update yugioh PSA10 buylist and Myca CSV 20260706_112605
+ 5 files changed, 158 insertions(+), 203 deletions(-)
+From https://github.com/climaxcard/climax6
+ * branch            main       -> FETCH_HEAD
+Created autostash: dcff9c5
+Current branch main is up to date.
+Applied autostash.
+branch 'main' set up to track 'origin/main'.
+To https://github.com/climaxcard/climax6.git
+   a6c97c3..e0ea257  main -> main
+[S3] S3„Å∏„Ç¢„ÉÉ„Éó„É≠„Éº„Éâ / CloudFront„Ç≠„É£„ÉÉ„Ç∑„É•ÂâäÈô§... 
+{
+    "UserId": "AIDAUYYOYKI43VDUCKE73",
+    "Account": "328059081273",
+    "Arn": "arn:aws:iam::328059081273:user/Zairo"
+}
+delete: s3://climax-kaitori-static/yugioh/assets/LINE.png
+Completed 0 Bytes/~1.9 MiB (0 Bytes/s) with ~6 file(s) remaining (calculating...)Completed 1.0 MiB/~1.9 MiB (15.9 MiB/s) with ~6 file(s) remaining (calculating...)Completed 1.2 MiB/4.2 MiB (5.8 MiB/s) with 8 file(s) remaining                    upload: docs\default\index.html to s3://climax-kaitori-static/yugioh/default/index.html
+Completed 1.2 MiB/4.2 MiB (5.8 MiB/s) with 7 file(s) remainingCompleted 2.2 MiB/4.2 MiB (1.7 MiB/s) with 7 file(s) remainingCompleted 3.2 MiB/4.2 MiB (2.5 MiB/s) with 7 file(s) remainingCompleted 3.2 MiB/4.2 MiB (2.5 MiB/s) with 7 file(s) remainingupload: docs\index.html to s3://climax-kaitori-static/yugioh/index.html
+Completed 3.2 MiB/4.2 MiB (2.5 MiB/s) with 6 file(s) remainingdelete: s3://climax-kaitori-static/yugioh/assets/tiktok.png   
+Completed 3.2 MiB/4.2 MiB (2.5 MiB/s) with 5 file(s) remainingdelete: s3://climax-kaitori-static/yugioh/assets/instagram.png
+Completed 3.2 MiB/4.2 MiB (2.5 MiB/s) with 4 file(s) remainingdelete: s3://climax-kaitori-static/yugioh/assets/X.png        
+Completed 3.2 MiB/4.2 MiB (2.5 MiB/s) with 3 file(s) remainingdelete: s3://climax-kaitori-static/yugioh/assets/logo.png     
+Completed 3.2 MiB/4.2 MiB (2.5 MiB/s) with 2 file(s) remainingCompleted 3.3 MiB/4.2 MiB (2.4 MiB/s) with 2 file(s) remainingupload: docs\price_desc\index.html to s3://climax-kaitori-static/yugioh/price_desc/index.html
+Completed 3.3 MiB/4.2 MiB (2.4 MiB/s) with 1 file(s) remainingCompleted 3.5 MiB/4.2 MiB (2.5 MiB/s) with 1 file(s) remainingupload: docs\price_asc\index.html to s3://climax-kaitori-static/yugioh/price_asc/index.html
+Completed 35.1 KiB/760.2 KiB (254.7 KiB/s) with 5 file(s) remainingupload: assets\LINE.png to s3://climax-kaitori-static/yugioh/assets/LINE.png
+Completed 35.1 KiB/760.2 KiB (254.7 KiB/s) with 4 file(s) remainingCompleted 645.4 KiB/760.2 KiB (787.4 KiB/s) with 4 file(s) remainingCompleted 649.6 KiB/760.2 KiB (750.4 KiB/s) with 4 file(s) remainingupload: assets\X.png to s3://climax-kaitori-static/yugioh/assets/X.png
+Completed 649.6 KiB/760.2 KiB (750.4 KiB/s) with 3 file(s) remainingCompleted 701.4 KiB/760.2 KiB (802.4 KiB/s) with 3 file(s) remainingupload: assets\instagram.png to s3://climax-kaitori-static/yugioh/assets/instagram.png
+Completed 701.4 KiB/760.2 KiB (802.4 KiB/s) with 2 file(s) remainingCompleted 760.2 KiB/760.2 KiB (863.8 KiB/s) with 2 file(s) remainingupload: assets\tiktok.png to s3://climax-kaitori-static/yugioh/assets/tiktok.png
+Completed 760.2 KiB/760.2 KiB (863.8 KiB/s) with 1 file(s) remainingupload: assets\logo.png to s3://climax-kaitori-static/yugioh/assets/logo.png
+{
+    "Location": "https://cloudfront.amazonaws.com/2020-05-31/distribution/E51XRDVR8AQAD/invalidation/IEF2GUX2H74BRHJIQA13BND6Z9",
+    "Invalidation": {
+        "Id": "IEF2GUX2H74BRHJIQA13BND6Z9",
+        "Status": "InProgress",
+        "CreateTime": "2026-07-06T02:26:19.171000+00:00",
+        "InvalidationBatch": {
+            "Paths": {
+                "Quantity": 1,
+                "Items": [
+                    "/yugioh/*"
+                ]
+            },
+            "CallerReference": "cli-1783304778-124330"
+        }
+    }
+}
